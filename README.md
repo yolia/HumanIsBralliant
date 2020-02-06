@@ -4,4 +4,5 @@ Resource collection in the topic human augmentation
 * Research Institute
 https://humanaugmentationlab.github.io/projects/
 * Research & Business Case
-https://humanaugmentationlab.github.io/projects/
+1. https://humanaugmentationlab.github.io/projects/
+* Education https://www.media.mit.edu/courses/human-2-0/
